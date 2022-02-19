@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning, Happy to here</h1>
-    <h1>Error fixed now<h1>
+    <h1>For dockerhub<h1>
     <h1>Poornaprasath here to learn Devops</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
