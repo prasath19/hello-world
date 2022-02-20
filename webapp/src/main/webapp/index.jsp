@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning, Happy to here</h1>
     <h1>For dockerhub checking<h1>
+      <h1>kubernetes here<h1>
      <h1>Error fixed now permanently, Thankyou<h1> 
     <h1>Poornaprasath here to learn Devops</h1>
     <p>Please fill in this form to create an account.</p>
